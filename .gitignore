@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# RenderCV output (generated files)
+rendercv_output/rendercv_output/
+
+# Generated profile photo (source JPEG is kept)
+profile_photo.png
+
+# OS files
+Thumbs.db
+.DS_Store
