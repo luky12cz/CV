@@ -7,9 +7,6 @@ __pycache__/
 Thumbs.db
 .DS_Store
 
-# RenderCV build artifacts (regenerate locally)
-rendercv_output/
-
 # Workspace file
 cline documents.code-workspace
 
